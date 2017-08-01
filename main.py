@@ -4,7 +4,7 @@
 # ob.show_infomation()
 
 
-haaaaaaaa
+haaaaaaaa 就是這裡
 arr = [1,232,35,5,65,65,6]
 def sum(a):
     ans = 0
